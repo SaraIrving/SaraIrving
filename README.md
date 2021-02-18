@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🤓 Junior Software Engineer @ Rival Technologies 
 - 🌱 I graduated from Lighthouse Labs Full Stack Web Development Bootcamp in Sept of 2020. 
 - 🌱🌱 Apprentice Mentor at Lighthouse Labs Web Development Bootcamp 
 - 🔭 I’m currently working on ... Unicorn vs Corgicorn Tic Tac Toe, play it at --> https://sarairving.github.io/Unicorn-Tic-Tac-Toe/
